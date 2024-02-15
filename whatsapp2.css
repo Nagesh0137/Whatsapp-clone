@@ -1,0 +1,331 @@
+.leftbox{
+	width: 35%;
+	height: 600px;
+/*	background-color: blue;*/
+	float: left;
+}
+.menubox{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background-color:#F0F2F5;
+	position: static;
+}
+.profile{
+	width: 8%;
+	height: 30px;
+	border-radius: 50%;
+/*	background-color: blue;*/
+	position:relative;
+	top: 10px;
+	margin-left: 10px;
+	float: left;
+
+}
+.menu_bar{
+width: 70%;	
+height: 50px;
+float: right;
+margin-left: 50px;
+margin-top: 5px;
+display: inline-block;
+/*background-color:red;*/
+color: #54656F;
+}
+.group{
+	font-size: 20px;
+	float: left;
+	margin-top: 15px;
+}
+.status{
+	width: 50%;
+	height: 25px;
+	float: left;
+	margin-top: 12px;
+	margin-left: -30px;
+}
+.chat{
+	width: 70%;
+	height: 25px;
+	float: left;
+	margin-top: -25px;
+	margin-left: 23px;
+	
+}
+.chats{
+	font-size: 23px;
+	margin-top: 13px;
+	margin-left: 50px;
+}
+.dot{
+	font-size: 20px;
+	margin-left: 50px;
+}
+.dp{
+	font-size: 50px;
+	color: #54656F;
+}
+.searchbox{
+width: 100%;
+height: 50px;
+float: left;
+background-color: white;
+}
+.searchbox input{
+	width: 85%;
+	height: 35px;
+	margin-top: 8px;
+	margin-left: 5px;
+	background-color:#F0F2F5;
+	border: none;
+	border-radius: 8px;
+	float: left;
+	text-align: center;
+}
+.filter{
+	font-size: 30px;
+	float: left;
+	margin-left: 18px;
+	margin-top: 10px;
+}
+.search{
+	position: absolute;
+	top: 84px;
+	left: 27px;
+	font-size: 22px;
+}
+.archive{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background-color: white;
+	border-top: 1px solid whitesmoke;
+	border-bottom: 1px solid whitesmoke;
+}
+.archiveicon{
+	font-size: 22px;
+	margin-left: 20px;
+	margin-top: 5px;
+	color: green;
+}
+.archive h4{
+	margin-left: 200px;
+	margin-top: -25px;
+	font-size: 20px;
+}
+.group1{
+	width: 100%;
+	height: 65px;
+/*	background-color: whitesmoke;*/
+	float: left;
+	border-bottom: 1px solid whitesmoke;
+}
+.dp1{
+	width: 12%;
+	height: 47px;
+	border-radius: 50%;
+	background:url('a2z_logo.jpeg') no-repeat;
+	background-size: 100%,100%;
+	margin-top: 3px;
+	margin-left: 5px;
+}
+.group1 a{
+		text-decoration: none;
+		margin-left: 80px;
+		margin-top: -50px;
+		font-size: 20px;
+		position: absolute;
+		color: black;
+		cursor: pointer;
+}
+.group1 pre{
+		margin-left: 80px;
+		margin-top: -35px;
+		font-size: 20px;
+}
+.group1 h6{
+		margin-left: 80px;
+		margin-top: -15px;
+		word-spacing: 5px;
+
+}
+.group1 p{
+	margin-left: 140px;
+		margin-top: -15px;
+/*		word-spacing: 5px;*/
+		font-weight:normal;
+		font-size: 15px;
+}
+#time{
+	margin-top: -63px;
+	margin-left: 400px;
+/*	font-size: 20px;*/
+}
+.group2{
+	width: 100%;
+	height: 65px;
+	background-color: white;
+	float: left;
+}
+.dp2{
+	width: 12%;
+	height: 47px;
+	border-radius: 50%;
+	background:url('a2z_logo.jpeg') no-repeat;
+	background-size: 100%,100%;
+	margin-top: 3px;
+	margin-left: 5px;
+}
+.Shrikant_dp{
+	width: 12%;
+	height: 47px;
+	border-radius: 50%;
+	background:url('shrikantdp.jpg') no-repeat;
+	background-size: 100%,100%;
+	margin-top: 3px;
+	margin-left: 5px;
+}
+.time{
+float: left;
+font-size: 15px;
+margin-top: -75px;
+margin-left: 400px;
+color:#25D366;
+}
+.kanda p{
+font-size: 13px;
+}
+.msg{
+	width: 5%;
+	height: 20px;
+	border-radius: 50%;
+	background-color:#25D366;
+	margin-top: -50px;
+	margin-left: 420px;
+	color: white;
+	text-align: center;
+}
+.shetkari_dp{
+	width: 12%;
+	height: 47px;
+	border-radius: 50%;
+	background:url('shetkari.jpeg') no-repeat;
+	background-size: 130%,100%;
+	margin-top: 3px;
+	margin-left: 5px;
+}
+.nagar_dp{
+	width: 12%;
+	height: 47px;
+	border-radius: 50%;
+	background:url('ilovenagar.jpeg') no-repeat;
+	background-size: 100%,100%;
+	margin-top: 3px;
+	margin-left: 5px;
+}
+.scrollup_dp{
+	width: 12%;
+	height: 47px;
+	border-radius: 50%;
+	background:url('scrollrup.png') no-repeat;
+	background-size: 100%,100%;
+	margin-top: 3px;
+	margin-left: 5px;
+}
+#t2{
+     float:left;
+     margin-top: -60px;
+     margin-left: 400px;
+     color: #25D366;
+}
+.dada_dp{
+	width: 12%;
+	height: 47px;
+	border-radius: 50%;
+	background:url('dadadp.jpeg') no-repeat;
+	background-size: 100%,100%;
+	margin-top: 3px;
+	margin-left: 5px;
+}
+.rightbox{
+	width: 65%;
+	height: 600px;
+	background:url('whatswal.jpg') no-repeat;
+	background-size: 100%,100%;
+	float: left;
+	border-left: 1px solid ghostwhite;
+	box-sizing: border-box;
+}
+.chatbox{
+width: 100%;	
+height: 60px;
+background-color: #F0F2F5;
+margin-top: 0px;
+float: left;
+color: #54656F;
+}
+.chat_dp{
+	width: 7%;
+	height: 50px;
+	float: left;
+	border-radius: 50%;
+	background:url('a2z_logo.jpeg') no-repeat;
+	background-size: 100%,100%;
+/*	margin-top: 3px;*/
+/*	margin-left: 5px;	*/
+}
+.chat_name{
+	float: left;
+	margin-top: 9px;
+	margin-left: 15px;
+	font-size: 18px;
+color:black;
+
+}
+.chat_member{
+float: left;
+margin-top: -20px;
+margin-left: 15px;
+font-weight: normal;
+font-size: 15px;
+color: #54656F;
+}
+.video{
+	float: right;
+	font-size: 20px;
+	margin-top: -25px;
+	margin-right: 90px;	
+	margin-left: 50px;
+}
+.search2{
+	float: right;
+	font-size: 20px;
+	margin-top: -25px;
+	margin-right: 50px;	
+}
+.dot2{
+	float: right;
+	font-size: 20px;
+	margin-top: -25px;
+	margin-right: 20px;
+}
+video{
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 40%;
+	float: left;
+	height: 200px;
+	border-top-right-radius: 60px;
+	border-bottom-left-radius: 60px;
+	box-shadow: -8px 0px 2px 2px white;
+}
+.yvideo{
+	float: left;
+	margin-left: -340px;
+	margin-top: 300px;
+	width: 40%;
+	height: 200px;
+	border-top-right-radius: 60px;
+	border-bottom-left-radius: 60px;
+	box-shadow: -8px 0px 2px 2px white;
+}
